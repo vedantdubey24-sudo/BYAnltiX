@@ -1,0 +1,16 @@
+
+fastapi
+uvicorn[standard]
+pandas
+numpy
+python-multipart
+openpyxl
+xlrd
+pydantic-settings
+python-dotenv
+scipy
+scikit-learn
+reportlab
+xlsxwriter
+
+slowapi
